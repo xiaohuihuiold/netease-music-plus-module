@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xhhold.xp.plus.module">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name">
+
+        <meta-data
+            android:name="netversion"
+            android:value="119" />
+
+    </application>
+
+</manifest>
